@@ -24,6 +24,6 @@ window.onload = function() {
     }
 }
 
-consol.log(3);
+console.log(3);
 //will this work?
-consol.log('A string!!!....Maybe');
+console.log('A string!!!....Maybe');
