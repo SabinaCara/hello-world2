@@ -23,3 +23,7 @@ window.onload = function() {
         setContent("you clicked me " + clicks + " times")
     }
 }
+
+consol.log(3);
+//will this work?
+consol.log('A string!!!....Maybe');
